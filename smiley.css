@@ -1,0 +1,41 @@
+.rectangle1 {
+    stroke: black;
+    fill: transparent;
+    stroke-width: 5;
+}
+
+.circlehead {
+    stroke: yellow;
+    fill: lightgreen;
+    stroke-width: 5;
+}
+
+.circlelefteye {
+    stroke: green;
+    fill: lightskyblue;
+    stroke-width: 5;
+}
+
+.ellipserighteye {
+    stroke: green;
+    fill: lightskyblue;
+    stroke-width: 5;
+}
+
+.ellipse1 {
+    stroke: black;
+    fill: transparent;
+    stroke-width: 5;
+}
+
+.polyline1 {
+    stroke: black;
+    fill: transparent;
+    stroke-width: 5;
+}
+
+.mouth {
+    stroke: green;
+    fill: rgb(240, 57, 224);
+    stroke-width: 5;
+}
